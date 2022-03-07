@@ -1,0 +1,62 @@
+header{
+/* to make navbar side of header DEV101 */
+    display: flex;   
+    /* justify */
+    justify-content: space-between;
+margin:50px;
+font-size:small
+margin-left:2rem;
+margin-right:2rem;
+}
+ul{
+
+display: flex;
+width: 200px;
+justify-content: space-between;
+list-style-type:none;
+font-size: large;
+}
+
+nav{ 
+/* view code */
+width: 20vw;
+margin-top: 10px;
+ }
+ .bigimage { 
+margin-left: 30px;
+margin-left: 30px;
+width:95vw;
+
+ }
+ .container{
+display: flex;
+justify-content: space-evenly;
+ }
+
+ .container div{
+
+   text-align: center;
+   margin-top: 2rem;
+ } 
+
+ .container>div>p{
+
+    text-align: center;
+    margin-top: 2rem;
+  } 
+.img1{
+    margin-bottom: 10px;
+}
+
+.img2{
+    margin-bottom: 10px;
+}
+
+.img3{
+    margin-bottom: 10px;
+}
+
+h1{
+
+    font-weight: normal;
+}
